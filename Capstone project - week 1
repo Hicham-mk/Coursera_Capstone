@@ -1,1 +1,5 @@
-
+This notebook will use for the final Capstone project - 1rst week
+import pandas as pd
+import numpy as np
+print("Hello Capstone Project Course!")
+Hello Capstone Project Course!
